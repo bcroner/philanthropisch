@@ -2,7 +2,7 @@
 
 > **Status: DRAFT. NOT LOCKED. NOT LAUNCHED.**
 > Sensing, stages 4–5. Tests the riskiest assumption of [NEED.md](NEED.md).
-> Template: [PROBE](https://github.com/bcroner/RZN_AI_PATENT_PORTFOLIO_TRIFECTA_OPTIMAL_AUTOPILOT/blob/main/templates/PROBE.template.md).
+> Based on the RZN AI Probe template.
 
 The thresholds in §5 were **adopted by the operator on 2026-09-12**, before any
 conversation happened. The probe is locked once §2 is also final.

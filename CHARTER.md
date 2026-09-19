@@ -2,7 +2,7 @@
 
 > **Status: DRAFT.** Only §4 is written. Everything else waits on the listening
 > probe, because what this venture *does* should come from what people need.
-> Leg 1 of 3. Template: [CHARTER](https://github.com/bcroner/RZN_AI_PATENT_PORTFOLIO_TRIFECTA_OPTIMAL_AUTOPILOT/blob/main/templates/CHARTER.template.md).
+> Leg 1 of 3. Based on the RZN AI Charter template.
 
 Delete no headings — an empty section is information.
 

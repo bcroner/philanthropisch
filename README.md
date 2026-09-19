@@ -31,16 +31,23 @@ the listening stage.
 
 ## How it works
 
-This venture runs on the method in the
-[RZN AI autopilot repository](https://github.com/bcroner/RZN_AI_PATENT_PORTFOLIO_TRIFECTA_OPTIMAL_AUTOPILOT).
-References such as "Principle 12", "Charter §6", or "JUDGE §8" point to documents
-there, chiefly
-[PRINCIPLES.md](https://github.com/bcroner/RZN_AI_PATENT_PORTFOLIO_TRIFECTA_OPTIMAL_AUTOPILOT/blob/main/PRINCIPLES.md).
-Two of those principles matter most here:
+This venture follows RZN AI's working method: gather evidence before building, fix the
+pass/fail lines before collecting data, and let the results decide. References such as
+"Principle 12", "Charter §6", or "JUDGE §8" point to RZN AI's internal method documents,
+which aren't public. The two principles that matter most here:
 
-- **Meet needs; never manufacture wants.**
-- **Offer, never impose.** The people served are asked what they need, not decided for.
+- **Principle 11: Meet needs; never manufacture wants.** Nothing is offered whose main
+  effect is to create the want it then satisfies.
+- **Principle 12: Offer, never impose.** The people served are asked what they need, not
+  decided for. Anything offered can be declined, undone, and explained.
+
+The same method is available as a guided app: [Autopilot](https://github.com/bcroner/Autopilot-App).
 
 ---
 
-Private. No license has been granted.
+## License
+
+© 2026 RZN AI, LLC. These documents are licensed under
+[Creative Commons Attribution 4.0](LICENSE). Anyone may copy and adapt them, including
+the listening guide and referral sheet for their own community, with credit to
+`philanthropisch`.

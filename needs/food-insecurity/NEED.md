@@ -1,7 +1,7 @@
 # Need Brief — Local food insecurity
 
 > **Status: DRAFT.** Sensing, stage 2. Not yet judged.
-> Venture: `philanthropisch`. Template: [NEED_BRIEF](https://github.com/bcroner/RZN_AI_PATENT_PORTFOLIO_TRIFECTA_OPTIMAL_AUTOPILOT/blob/main/templates/NEED_BRIEF.template.md).
+> Venture: `philanthropisch`. Based on the RZN AI Need Brief template.
 
 This brief is written almost entirely in *unknowns*, and that is correct. The
 operator named a cause; nobody has yet asked the people living it. Per
